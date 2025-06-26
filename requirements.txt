@@ -2,5 +2,8 @@ flask
 flask-cors
 langchain
 langchain_groq
+langchain-community
+sentence-transformers
 chromadb
 python-dotenv
+gdown
